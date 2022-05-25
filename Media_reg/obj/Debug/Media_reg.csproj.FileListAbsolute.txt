@@ -1,0 +1,10 @@
+C:\Users\jalma\source\repos\Media_reg\Media_reg\bin\Debug\Media_reg.exe.config
+C:\Users\jalma\source\repos\Media_reg\Media_reg\bin\Debug\Media_reg.exe
+C:\Users\jalma\source\repos\Media_reg\Media_reg\bin\Debug\Media_reg.pdb
+C:\Users\jalma\source\repos\Media_reg\Media_reg\obj\Debug\Media_reg.Form1.resources
+C:\Users\jalma\source\repos\Media_reg\Media_reg\obj\Debug\Media_reg.Properties.Resources.resources
+C:\Users\jalma\source\repos\Media_reg\Media_reg\obj\Debug\Media_reg.csproj.GenerateResource.cache
+C:\Users\jalma\source\repos\Media_reg\Media_reg\obj\Debug\Media_reg.csproj.CoreCompileInputs.cache
+C:\Users\jalma\source\repos\Media_reg\Media_reg\obj\Debug\Media_reg.exe
+C:\Users\jalma\source\repos\Media_reg\Media_reg\obj\Debug\Media_reg.pdb
+C:\Users\jalma\source\repos\Media_reg\Media_reg\obj\Debug\Media_reg.csprojAssemblyReference.cache
